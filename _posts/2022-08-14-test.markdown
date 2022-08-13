@@ -2,7 +2,7 @@
 layout: post
 title: post-sample2
 date: 2022-08-14 19:20:23 +0900
-category: sample
+categories: sample
 ---
 
 Hi, All
