@@ -5,7 +5,7 @@ categories: [캐나다주식]
 tags:
   [
     TELUS,
-    .
+    통신,
     .
     .
   ]
