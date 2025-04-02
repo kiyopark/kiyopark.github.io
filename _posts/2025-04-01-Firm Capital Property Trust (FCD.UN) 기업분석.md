@@ -7,7 +7,7 @@ tags:
     Firm Capital Property Trust,
     FCD.UN,
     REIT,
-    .
+    고배당,
     .
   ]
 ---

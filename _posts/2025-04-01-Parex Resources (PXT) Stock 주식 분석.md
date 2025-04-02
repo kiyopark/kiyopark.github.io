@@ -7,7 +7,7 @@ tags:
     Parex Resources,
     PXT,
     자원,
-    .
+    고배당,
     .
   ]
 ---

@@ -7,7 +7,7 @@ tags:
     Freehold Royalties Ltd,
     FRU.TO,
     자원,
-    .
+    고배당,
     .
   ]
 ---
