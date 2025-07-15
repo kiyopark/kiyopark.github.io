@@ -1,13 +1,11 @@
 ---
 title: Over-the-Counter (OTC) 마켓이란
 date: 2025-03-30 22:13:38 -08:00
-categories: [주식용어, 클래스 AB]
+categories: [주식용어]
 tags:
   [
     Over-the-Counter (OTC),
-    .
-    .
-    .
+    클래스 AB,
   ]
 ---
 
