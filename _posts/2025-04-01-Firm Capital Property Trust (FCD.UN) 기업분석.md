@@ -1,14 +1,13 @@
 ---
 title: Firm Capital Property Trust (FCD.UN) 기업분석
 date: 2025-04-01 02:55:38 -08:00
-categories: [캐나다주식]
+categories: [캐나다주식, 기업분석]
 tags:
   [
     Firm Capital Property Trust,
     FCD.UN,
     REIT,
     고배당,
-    .
   ]
 ---
 
