@@ -1,13 +1,11 @@
 ---
 title: TELUS Corporation (T.TO) 기본적 분석
 date: 2025-03-30 22:50:38 -08:00
-categories: [캐나다주식]
+categories: [캐나다주식, 기업분석]
 tags:
   [
     TELUS,
     통신,
-    .
-    .
   ]
 ---
 
