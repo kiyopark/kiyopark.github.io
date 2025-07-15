@@ -1,14 +1,13 @@
 ---
 title: Freehold Royalties Ltd. (FRU.TO) 기본적 분석
 date: 2025-04-01 01:55:38 -08:00
-categories: [캐나다주식]
+categories: [캐나다주식, 기업분석]
 tags:
   [
     Freehold Royalties Ltd,
     FRU.TO,
     자원,
     고배당,
-    .
   ]
 ---
 
