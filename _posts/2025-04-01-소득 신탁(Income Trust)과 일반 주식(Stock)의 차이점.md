@@ -5,7 +5,6 @@ categories: [주식용어]
 tags:
   [
     Income Trust,
-    .
   ]
 ---
 
