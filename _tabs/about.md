@@ -4,7 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+> 본 사이트는 주식투자를 하는 개인으로서 개인적으로 캐나다 주식시장, ETF, 금융관련 공부도 하고 그 정보를 남기고자 만든 블로그입니다. 추후에는 미국 주식종목에 대한 정보도 제공할 예정입니다. 방문해 주셔서 감사합니다.
 
-캐나다 주식시장, ETF, 금융관련 정보를 기억하고자 만들었습니다.
