@@ -5,9 +5,6 @@ categories: [주식용어, 클래스 AB]
 tags:
   [
     클래스 A B,
-    .
-    .
-    .
   ]
 ---
 
