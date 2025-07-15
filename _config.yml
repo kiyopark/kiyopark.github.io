@@ -9,7 +9,7 @@ theme: jekyll-theme-chirpy
 lang: ko
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Vancouver
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -19,11 +19,11 @@ title: 투자 블로그 # the main title
 tagline: 현명한 투자를 위한 정보공유 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  미국주식, 캐나다주식, ETF, 암호화폐, 
+  미국주식, 캐나다주식, ETF, 암호화폐, 금융투자 정보 공유
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://kiyopark.github.io"
 
 github:
   username: kiyopark # change to your GitHub username
