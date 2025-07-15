@@ -1,7 +1,7 @@
 ---
 title: Pizza Pizza Royalty Corp 기본적 분석
 date: 2025-04-01 04:55:38 -08:00
-categories: [캐나다주식]
+categories: [캐나다주식, 기업분석]
 tags:
   [
     Pizza Pizza Royalty Corp,
