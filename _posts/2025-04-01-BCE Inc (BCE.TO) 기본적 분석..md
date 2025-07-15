@@ -1,14 +1,13 @@
 ---
 title: BCE Inc. (BCE.TO) 기본적 분석
 date: 2025-04-01 01:50:38 -08:00
-categories: [캐나다주식]
+categories: [캐나다주식, 기업분석]
 tags:
   [
     BCE,
     BCE.TO,
     통신,
     고배당,
-    .
   ]
 ---
 
