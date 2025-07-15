@@ -8,6 +8,7 @@
 
 - type: email
   icon: "fas fa-envelope"
+  link: g1000white@gmail.com # 여기에 실제 이메일 주소를 입력합니다.
   noblank: true # open link in current tab
 
 - type: rss
